@@ -1,4 +1,4 @@
-READ ME
+
 1)GET
 http://localhost:8080/Lab6hibernate/rest/services/customers/
      show database
