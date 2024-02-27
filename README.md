@@ -2,6 +2,8 @@ READ ME
 1)GET
 http://localhost:8080/Lab6hibernate/rest/services/customers/
      show database
+
+
 2) POST
 http://localhost:8080/Lab6hibernate/rest/services/authenticate
 Body -> input your data username and pwd
@@ -9,12 +11,7 @@ Body -> input your data username and pwd
     "username": "xxx",
     "pwd": "xxx"
 }
-
-
 copy token ->>> "result": "XXXXXXXXXX",
-
-
-
 
 
 3)GET
